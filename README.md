@@ -1,4 +1,4 @@
-#  Async Multiprocessing Data Pipeline application
+#  Async Multiprocessing Data Pipeline REST endpoints
 > ## Using FastAPI and Postgres in less than 48 hours
 > My first usecase working with Postgres, async and FastAPI
 
